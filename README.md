@@ -7,7 +7,7 @@
 * [Claw](#Claw)
 * [Pulley System](#PulleySystem)
 * [Challenges](#Challenges)
-* [Whats Next](#WhatsNext)
+* [Whats Next](#What'sNext)
 ---
 
 ## Overview
@@ -146,5 +146,5 @@ while True:
 
 ## Challenges 
 
-## Whats Next
+## What's Next
 
