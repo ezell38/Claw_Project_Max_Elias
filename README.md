@@ -75,7 +75,11 @@ while True:
 
 ### CAD 
 
-<img src="https://github.com/ezell38/Claw_Project_Max_Elias/blob/main/Capture.13.png" alt="Claw" width="500" >
+<img src="https://github.com/ezell38/Claw_Project_Max_Elias/blob/main/Capture.12.PNG" alt="Claw" width="500" >
+
+<img src="https://github.com/ezell38/Claw_Project_Max_Elias/blob/main/Capture.14.PNG" alt="Claw" width="500" >
+
+<img src="https://github.com/ezell38/Claw_Project_Max_Elias/blob/main/Capture.13.PNG" alt="Claw" width="500" >
 
 
 ## Pulley System 
@@ -127,5 +131,9 @@ while True:
 ```
 
 ### CAD
+
+<img src="https://github.com/ezell38/Claw_Project_Max_Elias/blob/main/Capture.10.PNG" alt="Claw" width="500" >
+
+<img src="https://github.com/ezell38/Claw_Project_Max_Elias/blob/main/Capture.11.PNG" alt="Claw" width="500" >
 
 ## Whats Next
