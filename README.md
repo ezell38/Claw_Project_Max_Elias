@@ -75,6 +75,8 @@ while True:
 
 ### CAD 
 
+<img src="https://github.com/ezell38/Claw_Project_Max_Elias/blob/main/Capture.13.png" alt="Claw" width="500" >
+
 
 ## Pulley System 
 
