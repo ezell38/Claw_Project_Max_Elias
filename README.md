@@ -6,8 +6,8 @@
 * [Planning](#Planning)
 * [Claw](#Claw)
 * [Pulley System](#PulleySystem)
+* [Challenges](#Challenges)
 * [Whats Next](#WhatsNext)
-* [Challaenges](#Challenges)
 ---
 
 ## Overview
@@ -144,6 +144,7 @@ while True:
 
 <img src="https://github.com/ezell38/Claw_Project_Max_Elias/blob/main/Capture.16.PNG" alt="Claw" width="500" >
 
+## Challenges 
+
 ## Whats Next
 
-## Challenges 
