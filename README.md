@@ -88,6 +88,8 @@ while True:
 
 ## Pulley System 
 
+### Code
+
 ```python 
 import time
 import board
@@ -143,8 +145,4 @@ while True:
 ### Wiring 
 
 <img src="https://github.com/ezell38/Claw_Project_Max_Elias/blob/main/Capture.16.PNG" alt="Claw" width="500" >
-
-## Challenges 
-
-## What's Next
 
