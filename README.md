@@ -5,8 +5,8 @@
 * [Overview](#Overview)
 * [Planning](#Planning)
 * [Claw](#Claw)
-* [Pulley System](#Pulley_System)
-* [Final Product](#Final_Product)
+* [Pulley System](#PulleySystem)
+* [Final Product](#FinalProduct)
 ---
 
 ## Overview
