@@ -6,8 +6,7 @@
 * [Planning](#Planning)
 * [Claw](#Claw)
 * [Pulley System](#PulleySystem)
-* [Challenges](#Challenges)
-* [Whats Next](#What'sNext)
+* [Final Product](#FinalProduct)
 ---
 
 ## Overview
