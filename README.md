@@ -11,13 +11,40 @@
 
 ## Overview
 
-
+Write a overview
 
 ## Planning
 
 [Planning Document](https://docs.google.com/document/d/1XXWAfTAQtO8pT8Eb2y5HrwGSn4y9Jn23eiQkxXuFsj8/edit?usp=sharing)
 
+## Materials
+
+ - Metro Express Board
+ - Servo 
+ - Continuous Rotation Servo
+ - Pushbutton
+ - Breadboard
+ - Wires
+ - 9V Battery Pack
+ - 6V Battery Pack
+ - Batteries
+ - 10k Resistor 
+
 ## Claw
+
+### Wiring
+
+<img src="https://github.com/ezell38/Claw_Project_Max_Elias/blob/main/Capture.15.PNG" alt="Claw" width="500" >
+
+### CAD 
+
+<img src="https://github.com/ezell38/Claw_Project_Max_Elias/blob/main/Capture.12.PNG" alt="Claw" width="500" >
+
+<img src="https://github.com/ezell38/Claw_Project_Max_Elias/blob/main/Capture.14.PNG" alt="Claw" width="500" >
+
+<img src="https://github.com/ezell38/Claw_Project_Max_Elias/blob/main/Capture.13.PNG" alt="Claw" width="500" >
+
+[CAD Link](https://cvilleschools.onshape.com/documents/1f5db2379f1d2c9b7195486e/w/dd9e2ac12dc3a1b1d58a8a94/e/bb594a6de6861d6ebeffe694)
 
 ### Code
 
@@ -73,19 +100,20 @@ while True:
         btndown = 0
 ```        
 
-### CAD 
-
-<img src="https://github.com/ezell38/Claw_Project_Max_Elias/blob/main/Capture.12.PNG" alt="Claw" width="500" >
-
-<img src="https://github.com/ezell38/Claw_Project_Max_Elias/blob/main/Capture.14.PNG" alt="Claw" width="500" >
-
-<img src="https://github.com/ezell38/Claw_Project_Max_Elias/blob/main/Capture.13.PNG" alt="Claw" width="500" >
-
-### Wiring
-
-<img src="https://github.com/ezell38/Claw_Project_Max_Elias/blob/main/Capture.15.PNG" alt="Claw" width="500" >
 
 ## Pulley System 
+
+### Wiring 
+
+<img src="https://github.com/ezell38/Claw_Project_Max_Elias/blob/main/Capture.16.PNG" alt="Claw" width="500" >
+
+### CAD
+
+<img src="https://github.com/ezell38/Claw_Project_Max_Elias/blob/main/Capture.10.PNG" alt="Claw" width="500" >
+
+<img src="https://github.com/ezell38/Claw_Project_Max_Elias/blob/main/Capture.11.PNG" alt="Claw" width="500" >
+
+[CAD Link](https://cvilleschools.onshape.com/documents/b4fa0afbfa2f079a6a085bd3/w/0d784bcc45420ac59128868b/e/0002819ede218a1c8613da6c)
 
 ### Code
 
@@ -135,19 +163,14 @@ while True:
         time.sleep(0.1)
 ```
 
-### CAD
-
-<img src="https://github.com/ezell38/Claw_Project_Max_Elias/blob/main/Capture.10.PNG" alt="Claw" width="500" >
-
-<img src="https://github.com/ezell38/Claw_Project_Max_Elias/blob/main/Capture.11.PNG" alt="Claw" width="500" >
-
-### Wiring 
-
-<img src="https://github.com/ezell38/Claw_Project_Max_Elias/blob/main/Capture.16.PNG" alt="Claw" width="500" >
 
 ## Final Product
 
 ### Evidence 
 
 <img src="https://github.com/ezell38/Claw_Project_Max_Elias/blob/main/ezgif-1-378827971a.gif" alt="Final" width="500" >
+
+## Reflection
+
+Write a Reflection
 
