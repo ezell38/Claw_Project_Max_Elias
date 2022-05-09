@@ -3,10 +3,12 @@
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
 * [Overview](#Overview)
+* [Materials](#Materials)
 * [Planning](#Planning)
 * [Claw](#Claw)
 * [Pulley System](#PulleySystem)
 * [Final Product](#FinalProduct)
+* [Reflection](#Reflection)
 ---
 
 ## Overview
