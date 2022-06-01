@@ -140,7 +140,6 @@ lastButtonState = 0
 btndown = False
 
 
-
 while True:
     if btn.value and lastButtonState == 0:
         btndown = not btndown
@@ -171,6 +170,12 @@ while True:
 ### Evidence 
 
 <img src="https://github.com/ezell38/Claw_Project_Max_Elias/blob/main/ezgif-1-378827971a.gif" alt="Final" width="500" >
+
+## Final Machine 
+
+### CAD
+
+
 
 ## Reflection
 
