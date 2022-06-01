@@ -14,7 +14,7 @@
 
 ## Overview
 
-Write a overview
+The goal of this project was to create a claw that can go both go up and down using a pulley system, and pick up a desired object all at the press of a button. This project also includes a cartisian arm system where the claw can move on a y and x axis. 
 
 ## Planning
 
@@ -190,5 +190,5 @@ while True:
 
 ## Reflection
 
-Write a Reflection
+Besides minor errors and innefficiencies in our code the only major mistake we made during this project was in the construction of our claw. In the first of two prints we made all parts on the claw to thin and did not create a way for the claw to attach to the larger machine. 
 
