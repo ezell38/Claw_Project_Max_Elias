@@ -54,7 +54,7 @@ The goal of this project was to create a claw that can go both go up and down us
 ```python
 # Claw project Code
 # Elias Zell & Max Timmins
-# This code should control four servos to make a claw open and close
+# This code should control four servos to make a claw open and close when a button is pressed.
 import pwmio
 import servo
 import board
@@ -124,6 +124,9 @@ while True:
 ### Code
 
 ```python 
+# Claw project Code
+# Elias Zell & Max Timmins
+# This code should control a servo to make it rotate forwards and backwards when the button is pressed.
 import time
 import board
 import pwmio
