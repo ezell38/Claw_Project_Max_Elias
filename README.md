@@ -7,7 +7,8 @@
 * [Planning](#Planning)
 * [Claw](#Claw)
 * [Pulley System](#PulleySystem)
-* [Final Product](#FinalProduct)
+* [Final Claw](#FinalClaw)
+* [Final Machine](FinalMachine)
 * [Reflection](#Reflection)
 ---
 
