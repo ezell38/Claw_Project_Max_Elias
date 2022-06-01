@@ -47,7 +47,7 @@ The goal of this project was to create a claw that can go both go up and down us
 
 <img src="https://github.com/ezell38/Claw_Project_Max_Elias/blob/main/Capture.13.PNG" alt="Claw" width="500" >
 
-[CAD Link](https://cvilleschools.onshape.com/documents/1f5db2379f1d2c9b7195486e/w/dd9e2ac12dc3a1b1d58a8a94/e/bb594a6de6861d6ebeffe694)
+[OnShape Link](https://cvilleschools.onshape.com/documents/1f5db2379f1d2c9b7195486e/w/dd9e2ac12dc3a1b1d58a8a94/e/bb594a6de6861d6ebeffe694)
 
 ### Code
 
@@ -116,7 +116,7 @@ while True:
 
 <img src="https://github.com/ezell38/Claw_Project_Max_Elias/blob/main/Capture.11.PNG" alt="Claw" width="500" >
 
-[CAD Link](https://cvilleschools.onshape.com/documents/b4fa0afbfa2f079a6a085bd3/w/0d784bcc45420ac59128868b/e/0002819ede218a1c8613da6c)
+[OnShape Link](https://cvilleschools.onshape.com/documents/b4fa0afbfa2f079a6a085bd3/w/0d784bcc45420ac59128868b/e/0002819ede218a1c8613da6c)
 
 ### Code
 
