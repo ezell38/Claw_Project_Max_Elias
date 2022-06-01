@@ -52,6 +52,9 @@ The goal of this project was to create a claw that can go both go up and down us
 ### Code
 
 ```python
+# Claw project Code
+# Elias Zell & Max Timmins
+# This code should control four servos to make a claw open and close
 import pwmio
 import servo
 import board
