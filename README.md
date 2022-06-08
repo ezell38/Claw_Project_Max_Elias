@@ -194,7 +194,7 @@ while True:
 
 ### Physical Product 
 
-<img src="https://github.com/ezell38/Claw_Project_Max_Elias/blob/main/done1.GIF" alt="Final" width="500" >
+<img src="https://github.com/ezell38/Claw_Project_Max_Elias/blob/main/done1.gif" alt="Final" width="500" >
 
 
 ## Reflection
