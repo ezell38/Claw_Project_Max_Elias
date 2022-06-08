@@ -3,8 +3,8 @@
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
 * [Overview](#Overview)
-* [Materials](#Materials)
 * [Planning](#Planning)
+* [Materials](#Materials)
 * [Claw](#Claw)
 * [Pulley System](#PulleySystem)
 * [Final Claw](#FinalClaw)
@@ -35,11 +35,11 @@ The goal of this project was to create a claw that can go both go up and down us
 
 ## Claw
 
-### Wiring
+### Claw Wiring
 
 <img src="https://github.com/ezell38/Claw_Project_Max_Elias/blob/main/Capture.15.PNG" alt="Claw" width="500" >
 
-### CAD 
+### Claw CAD 
 
 <img src="https://github.com/ezell38/Claw_Project_Max_Elias/blob/main/Capture.12.PNG" alt="Claw" width="500" >
 
@@ -49,7 +49,7 @@ The goal of this project was to create a claw that can go both go up and down us
 
 [OnShape Link](https://cvilleschools.onshape.com/documents/1f5db2379f1d2c9b7195486e/w/dd9e2ac12dc3a1b1d58a8a94/e/bb594a6de6861d6ebeffe694)
 
-### Code
+### Claw Code
 
 ```python
 # Claw project Code
@@ -75,13 +75,15 @@ my_servo2 = servo.Servo(pwm)
 my_servo3 = servo.Servo(pwm1)
 my_servo4 = servo.Servo(pwm1)
 
-def closeClaw():
+# Code to open the claw
+def closeClaw():  
     my_servo1.angle = 180
     my_servo2.angle = 180
     my_servo3.angle = 0
     my_servo4.angle = 0
     return 0
-
+    
+# Code to close the claw
 def openClaw():
     my_servo1.angle = 90
     my_servo2.angle = 90
@@ -93,6 +95,7 @@ clawState = closeClaw()
 
 btndown = 0
 
+# Tells the arduino that if the claw is open and the button is pressed to close the claw and if the claw is closed and the button is pressed to close it
 while True:
     print(btn.value)
     if btn.value and (btndown == 0):
@@ -109,11 +112,11 @@ while True:
 
 ## Pulley System 
 
-### Wiring 
+### Pulley Wiring 
 
 <img src="https://github.com/ezell38/Claw_Project_Max_Elias/blob/main/Capture.16.PNG" alt="Claw" width="500" >
 
-### CAD
+### Pulley CAD
 
 <img src="https://github.com/ezell38/Claw_Project_Max_Elias/blob/main/Capture.10.PNG" alt="Claw" width="500" >
 
@@ -121,10 +124,10 @@ while True:
 
 [OnShape Link](https://cvilleschools.onshape.com/documents/b4fa0afbfa2f079a6a085bd3/w/0d784bcc45420ac59128868b/e/0002819ede218a1c8613da6c)
 
-### Code
+### Pulley Code
 
 ```python 
-# Claw project Code
+# Claw project Pulley Code
 # Elias Zell & Max Timmins
 # This code should control a servo to make it rotate forwards and backwards when the button is pressed
 import time
@@ -148,15 +151,18 @@ btndown = False
 
 
 while True:
-    if btn.value and lastButtonState == 0:
+# This section makes sure it only runs the code once per button press
+    if btn.value and lastButtonState == 0: 
         btndown = not btndown
-        if btndown is True:
+# This section tells the servo that if the button last rotated backwards it needs to go forwards        
+        if btndown is True:  
             print("Forward")
             my_servo.throttle = 1.0
             time.sleep(2.0)
             print("Stop")
             my_servo.throttle = 0.0
             time.sleep(2.0)
+# This section tells the servo that if it last rotated forwards it needs to go backwards
         else:
             print("Reverse")
             my_servo.throttle = -1.0
