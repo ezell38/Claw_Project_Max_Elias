@@ -199,5 +199,5 @@ while True:
 
 ## Reflection
 
-Besides minor errors and innefficiencies in our code the only major mistake we made during this project was in the construction of our claw. In the first of two prints we made all parts on the claw to thin and did not create a way for the claw to attach to the larger machine. 
+Besides minor errors and inefficiencies in our code the only major mistake we made during this project was in the construction of our claw. In the first of two prints we made all parts on the claw to thin and did not create a way for the claw to attach to the larger machine. 
 
