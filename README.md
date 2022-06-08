@@ -194,6 +194,9 @@ while True:
 
 ### Physical Product 
 
+<img src="https://github.com/ezell38/Claw_Project_Max_Elias/blob/main/done1.GIF" alt="Final" width="500" >
+
+
 ## Reflection
 
 Besides minor errors and innefficiencies in our code the only major mistake we made during this project was in the construction of our claw. In the first of two prints we made all parts on the claw to thin and did not create a way for the claw to attach to the larger machine. 
